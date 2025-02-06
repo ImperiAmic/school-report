@@ -1,6 +1,3 @@
-// Vale, és a dir, jo guardo l'arxiu --> commit --> sync --> des de github baixo la darrera versió i guardo -->
-// sense guardar ja m'apareix un avís a 'Source Control' que hi ha canvis amb l'arxiu que he baixat --> guardo el document -->
-// a 'Source Control' torna a aparèixer aquest mateix document --> commit
 // Això és per veure què passa amb aquesta versió i les anteriors
 
 const space = " ";
