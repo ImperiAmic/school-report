@@ -1,3 +1,5 @@
+// Això és per veure què passa amb aquesta versió i les anteriors
+
 const space = " ";
 const lineFeed = "\n";
 const doubleLineFeed = "\n" + "\n";
